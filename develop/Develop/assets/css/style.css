@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* this is for the nav bar*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,6 +20,7 @@ body {
     font-size: 48px;
 }
 
+/*this changes the color in title in the browser*/
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -36,6 +37,7 @@ body {
     list-style-type: none;
 }
 
+/*Keeps inline with logo*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*banner image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +61,7 @@ p {
     background-position: center;
 }
 
+/*article picture class */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,6 +72,7 @@ p {
     margin-left: 25px;
 }
 
+/*this keeps the content more horzontal*/
 .content {
     width: 75%;
     display: inline-block;
